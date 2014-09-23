@@ -1,0 +1,16 @@
+{
+  "name": "irc-bot.js",
+  "version": "0.0.0",
+  "description": "irc bot",
+  "main": "app.js",
+  "start": "node app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandre Tavares",
+  "license": "ISC",
+  "dependencies": {
+    "irc": "0.3.7",
+    "node-lipsum": "1.0.1"
+  }
+}
